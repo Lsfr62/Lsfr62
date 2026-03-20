@@ -1,5 +1,5 @@
 - Hi, I’m Lucas aka @Lsfr62 👋
-- CS-Student @ Technische Hochschule Mittelhessen :computer: 
+- Bachelor in CS @ Technische Hochschule Mittelhessen :computer: 
 - You can reach me by mail: lucsch96@gmail.com :e-mail:
 
 <!---

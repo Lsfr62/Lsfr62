@@ -1,6 +1,6 @@
 - Hi, I’m Lucas aka @Lsfr62 👋
 - Bachelor in CS @ Technische Hochschule Mittelhessen :computer: 
-- You can reach me by mail: lucsch96@gmail.com :e-mail:
+- You can reach me by mail: lsfr62@proton.me :e-mail:
 
 <!---
 Lsfr62/Lsfr62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
